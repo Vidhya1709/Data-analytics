@@ -10,5 +10,5 @@ Carat is the unit of measurement for the physical weight of diamonds. One carat 
 ## 	COLOR
 A chemically pure and structurally perfect diamond is perfectly transparent with no hue, or color. However, in reality almost no gem-sized natural diamonds are absolutely perfect.
 ## 	CLAITY
-Diamond clarity is the quality of diamonds that relates to the existence and visual appearance of internal characteristics of a diamond called inclusions, and surface defects, called blemishes.
+Diamond clarity is the quality of diamonds that relates to the existence and visual appearance of internal characteristics of a diamond called inclusions, and surface defects, called blemishes.....
 
